@@ -14,8 +14,7 @@ function destructivelyAddElementToBeginningOfArray(array,element) {
   destructivelyAddElementToBeginningOfArray.push("element")
 }
 
-var addElementToBeginingOfArray = ["turkey","ham","chicken"];
-var newaddElementToBeginingOfArray = ["beef",...addElementToBeginingOfArray];
+\ar newaddElementToBeginingOfArray = ["beef",...addElementToBeginingOfArray];
 
 
 var addElementToEndOfArray = ["towel","shirt"];
