@@ -5,7 +5,7 @@ var ingredient4 = "butter"
 var ingredient5 = "tomato"
 var ingredient6 = "garlic"
 
-var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
+chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 function addElementToBeginingOfArray(array,element) {
   return newaddElementToBeginingOfArray[array],...elementS;
@@ -13,8 +13,6 @@ function addElementToBeginingOfArray(array,element) {
 function destructivelyAddElementToBeginningOfArray(array,element) {
   destructivelyAddElementToBeginningOfArray.push("element")
 }
-
-\ar newaddElementToBeginingOfArray = ["beef",...addElementToBeginingOfArray];
 
 
 var addElementToEndOfArray = ["towel","shirt"];
