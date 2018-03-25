@@ -40,11 +40,4 @@ function removeElementFromBeginningOfArray(array) {
   
   
   
-  
-  
-  
-  
-  
-}
-
 
