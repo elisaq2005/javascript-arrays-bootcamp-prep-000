@@ -18,3 +18,7 @@ var newaddElementToEndOfArray = [addElementToEndOfArray,..."shoes"];
 
 var destructivelyAddElementToEndOfArray = ["candy","ice cream"];
 destructivelyAddElementToEndOfArray.unshift("cookies");
+
+var accessElementInArray = ["seconds","minutes","hours"];
+console.log(accessElementInArray[1]);
+
