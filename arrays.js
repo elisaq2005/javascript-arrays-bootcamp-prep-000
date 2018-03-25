@@ -16,15 +16,5 @@ function destructivelyAddElementToBeginningOfArray(array,element) {
 }
 
 
-var addElementToEndOfArray = ["towel","shirt"];
-var newaddElementToEndOfArray = [addElementToEndOfArray,..."shoes"];
-
-var destructivelyAddElementToEndOfArray = ["candy","ice cream"];
-destructivelyAddElementToEndOfArray.unshift("cookies");
-
-function accessElementInArray(array,index) {
-  return (accessElementInArray[array], index);
-}
-
 
 
