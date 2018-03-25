@@ -21,7 +21,7 @@ destructivelyAddElementToEndOfArray.unshift("cookies");
 
 function accessElementInArray() {
   var time = ["seconds","minutes","hours"];
-  return accessElementInArray[1];
+  return accessElementInArray[2];
 }
 
 
