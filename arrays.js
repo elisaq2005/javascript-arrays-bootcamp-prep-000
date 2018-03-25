@@ -10,13 +10,13 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 function addElementToBeginingOfArray(array,element) {
   return newaddElementToBeginingOfArray[array],...elementS;
 }
-function dest  
+function destructivelyAddElementToBeginningOfArray(array,element) {
+  destructivelyAddElementToBeginningOfArray.push("element")
+}
 
 var addElementToBeginingOfArray = ["turkey","ham","chicken"];
 var newaddElementToBeginingOfArray = ["beef",...addElementToBeginingOfArray];
 
-var destructivelyAddElementToBeginningOfArray = ["pickles","cheese"];
-destructivelyAddElementToBeginningOfArray.push("tomato");
 
 var addElementToEndOfArray = ["towel","shirt"];
 var newaddElementToEndOfArray = [addElementToEndOfArray,..."shoes"];
