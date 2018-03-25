@@ -19,7 +19,7 @@ var newaddElementToEndOfArray = [addElementToEndOfArray,..."shoes"];
 var destructivelyAddElementToEndOfArray = ["candy","ice cream"];
 destructivelyAddElementToEndOfArray.unshift("cookies");
 
-function accessElementInArray() {
+function accessElementInArray(a,b) {
   return accessElementInArray[2];
 }
 
