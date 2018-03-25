@@ -5,4 +5,16 @@ var ingredient4 = "butter"
 var ingredient5 = "tomato"
 var ingredient6 = "garlic"
 
-chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
+var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
+
+var addElementToBeginingOfArray = ["turkey","ham","chicken"];
+var newaddElementToBeginingOfArray = ["beef",...addElementToBeginingOfArray];
+
+var destructivelyAddElementToBeginningOfArray = ["pickles","cheese"];
+destructivelyAddElementToBeginningOfArray.push("tomato");
+
+var addElementToEndOfArray = ["towel","shirt"];
+var newaddElementToEndOfArray = [addElementToEndOfArray,..."shoes"];
+
+var destructivelyAddElementToEndOfArray = ["candy","ice cream"];
+destructivelyAddElementToEndOfArray.unshift("cookies");
