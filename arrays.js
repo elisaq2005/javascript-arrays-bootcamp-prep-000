@@ -20,7 +20,7 @@ var destructivelyAddElementToEndOfArray = ["candy","ice cream"];
 destructivelyAddElementToEndOfArray.unshift("cookies");
 
 function accessElementInArray(a,b) {
-  return (accessElementInArray[a],b);
+  return (accessElementInArray[a],[b]);
 }
 
 
